@@ -1,6 +1,6 @@
 # TKB-product-comparisons
 
-Comparing products from the Toys Kids Babies categories by brand, price from 4 different countries:
+Comparing products from the Toys Kids Babies categories by brand, price from 5 different countries:
 * Singapore - Fair Price
 * Malaysia - Mydin
 * Philippines - SM Store
